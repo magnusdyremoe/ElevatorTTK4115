@@ -1,0 +1,48 @@
+Kovarianser flyende med start fra bakken
+
+> imu
+
+covar1 =
+
+   1.0e-05 *
+
+    0.3358         0
+         0         0
+
+
+covar2 =
+
+   1.0e-05 *
+
+    0.2127         0
+         0         0
+
+
+covar3 =
+
+   1.0e-05 *
+
+    0.2413         0
+         0         0
+
+
+covar4 =
+
+   1.0e-03 *
+
+    0.4454   -0.0000
+   -0.0000    0.0000
+
+
+covar5 =
+
+   1.0e-03 *
+
+    0.9535         0
+         0         0
+
+>> 
+
+
+
+Flyvende kovarianser med start fra hånd i likevektsposisjon
