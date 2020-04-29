@@ -1,7 +1,5 @@
 # HelicopterTTK4115
-Elevator project in TTK4115 - Linear system theory
-
-Project with Eivind Heldal Stray and Erlend Blomseth
+Helicopter project in TTK4115 Linear system theory with Eivind Heldal Stray and Erlend Blomseth
 
 Lab 1 - Equations of motion
 
